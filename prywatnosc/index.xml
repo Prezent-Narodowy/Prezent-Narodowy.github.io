@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prywatnosc on Prezent Narodowy | prezenty na każdą okazję</title>
+    <link>http://examplesite.org/prywatnosc/</link>
+    <description>Recent content in Prywatnosc on Prezent Narodowy | prezenty na każdą okazję</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <copyright>Copyright &amp;copy; 2020 Prezent Narodowy</copyright><atom:link href="http://examplesite.org/prywatnosc/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
