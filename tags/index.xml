@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Prezent Narodowy | prezenty na każdą okazję</title>
-    <link>http://examplesite.org/tags/</link>
+    <link>https://www.prezentnarodowy.pl/tags/</link>
     <description>Recent content in Tags on Prezent Narodowy | prezenty na każdą okazję</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <copyright>Copyright &amp;copy; 2020 Prezent Narodowy</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="http://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.prezentnarodowy.pl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advice</title>
-      <link>http://examplesite.org/tags/advice/</link>
+      <link>https://www.prezentnarodowy.pl/tags/advice/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/tags/advice/</guid>
+      <guid>https://www.prezentnarodowy.pl/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://examplesite.org/tags/automation/</link>
+      <link>https://www.prezentnarodowy.pl/tags/automation/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/tags/automation/</guid>
+      <guid>https://www.prezentnarodowy.pl/tags/automation/</guid>
       <description></description>
     </item>
     
